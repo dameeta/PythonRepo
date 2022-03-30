@@ -1,0 +1,19 @@
+Menu driven program
+
+Based on the order of items from each option, your total bill will be updated 
+
+welcome to restaurant
+1. Snack
+2  lunch
+3  dinner
+4. exit
+
+1. Snack
+    item name        qty         rate        
+    1.Idli           1            20          
+    2.Poha           1            30
+    3.Upma           1            30
+    4.Tea
+
+
+Bill  totalBill
