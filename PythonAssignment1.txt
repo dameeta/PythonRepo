@@ -1,0 +1,56 @@
+1.Counter class declared that contains 4 functions:
+constructor: This function will initialize the value of the counter.
+increase_one: This function will increase the value of the counter by one.
+decrease_one: This function will decrease the value of the counter by one.
+get_value: This function will return the value of the counter.
+All functions are empty and your job is to fill them with the proper code needed to make it work as expected.
+
+Fill the content of the class Counter to make it behave as expected.
+
+Initialize a variable self.counter and use it in every function.
+If your class behaves as expected, the output in the console should be:
+1
+3
+1
+2.Create a new datetime object with format month-day-year and print it on the console like this:
+Today is: 9-13-2021
+Hint:
+datetime is a method to format a date in Python. You can convert a date into any possible desired format by using this method. strftime method is used to create a string representing the date under the control of explicit format string.
+3.Define a new class called Person. Using the Python naming convention, add the following properties to the Person class:
+
+Name: Bob
+Last Name: Dylan
+Birth Date: May 24, 1941
+All properties values must be string.
+
+Name your properties in this way: name, last_name and birth_date
+Please update the constructor of the class to allow the name, last_name and birth_date to be passed as a parameter, in that same order.
+Print the properties of class in method.
+Person has the function get_age to calculate a person's age.create a new function called can_vote that returns a boolean true or false depending on the person's legal right to vote.
+4.Write a function that returns the maximum of two numbers.
+5.Write a function called fizz_buzz that takes a number.
+If the number is divisible by 3, it should return “Fizz”.
+If it is divisible by 5, it should return “Buzz”.
+If it is divisible by both 3 and 5, it should return “FizzBuzz”.
+Otherwise, it should return the same number.
+6.Write a function for checking the speed of drivers. This function should have one parameter: speed.
+If speed is less than 70, it should print “Ok”.
+Otherwise, for every 5km above the speed limit (70), it should give the driver one demerit point and print the total number of demerit points. For example, if the speed is 80, it should print: “Points: 2”.
+If the driver gets more than 12 points, the function should print: “License suspended”
+7.Write a function called showNumbers that takes a parameter called limit. It should print all the numbers between 0 and limit with a label to identify the even and odd numbers. For example, if the limit is 3, it should print:
+0 EVEN
+1 ODD
+2 EVEN
+3 ODD
+8.Write a function that returns the sum of multiples of 3 and 5 between 0 and limit (parameter). For example, if limit is 20, it should return the sum of 3, 5, 6, 9, 10, 12, 15, 18, 20.
+9.Write a function called show_stars(rows). If rows is 5, it should print the following:
+*
+**
+***
+****
+*****
+10.Write a function that prints all the prime numbers between 0 and limit where limit is a parameter.
+return true if age is greater than or equal to 21
+return false otherwise
+
+
