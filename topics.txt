@@ -1,0 +1,31 @@
+FastAPI 
+1) Req & Res handling --
+2) Pydantic Models---
+3) Dependency Injection
+4) Middleware
+5) Authentication & Authorization--
+6) Database Integration---
+7) File handling (files, images)
+8) Advance Routing
+9) Unit Testing
+
+Database
+1) MySQL---
+2) NoSQL---
+3) Creating database and connecting it with FastAPI---
+
+React
+1) Js for React
+2) React Hooks
+3) Component Communication
+4) Events & Forms
+5) Conditional Rendering & lists
+6) Routing
+7) API integration
+8) Testing (Jest, Unit tests)
+9) Next Js (React with Next Js)
+
+Deployment 
+1) Frontend, Backend, Database Deployment
+2) Docker & Containerization
+3) Cloud Platform - AWS
