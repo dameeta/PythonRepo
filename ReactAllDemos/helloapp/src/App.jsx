@@ -1,3 +1,4 @@
+import HelloClass from "./Components/classComponent/HelloClass";
 import { Counter } from "./Components/Counter";
 import { User } from "./Components/User";
 import { useState } from "react";
@@ -13,6 +14,7 @@ function App() {
       <input type='text' placeholder='Enter employee name' 
       value={empname} onChange={(e) =>setName(e.target.value)}/>
       <h3>Hello , {empname}</h3>
+      <HelloClass/>
       </div>
   
     {/* <Counter/> */}
